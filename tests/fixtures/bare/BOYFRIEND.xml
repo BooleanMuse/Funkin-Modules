@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+    <SubTexture name="BF idle dance0000" x="0" y="0" width="16" height="24"/>
+    <SubTexture name="BF idle dance0001" x="16" y="0" width="16" height="24"/>
+    <SubTexture name="BF NOTE UP0000" x="32" y="0" width="16" height="24"/>
+    <SubTexture name="BF NOTE UP0001" x="48" y="0" width="16" height="24"/>
+    <SubTexture name="BF NOTE UP MISS0000" x="64" y="0" width="16" height="24"/>
+    <SubTexture name="BF NOTE LEFT0000" x="80" y="0" width="16" height="24"/>
+    <SubTexture name="BF NOTE LEFT0001" x="96" y="0" width="16" height="24"/>
+</TextureAtlas>

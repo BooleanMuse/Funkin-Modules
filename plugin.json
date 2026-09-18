@@ -1,0 +1,52 @@
+{
+  "slug": "FunkinRack",
+  "name": "Funkin' Rack",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Viron Labs",
+  "author": "Skarmuse",
+  "authorEmail": "theskarmuse@gmail.com",
+  "authorUrl": "https://vironlabs.com/",
+  "pluginUrl": "https://github.com/BooleanMuse/Funkin-Modules",
+  "manualUrl": "https://github.com/BooleanMuse/Funkin-Modules",
+  "sourceUrl": "https://github.com/BooleanMuse/Funkin-Modules",
+  "donateUrl": "https://ko-fi.com/skarmuse",
+  "description": "Friday Night Funkin' characters that live in your rack. Import any mod's spritesheets, drive the opponent from your patch, and play the answer back with a gamepad, the computer keyboard or MIDI.",
+  "modules": [
+    {
+      "slug": "FunkinOpponent",
+      "name": "Funkin Opponent",
+      "description": "A Friday Night Funkin' character that stands in your rack and sings whatever four gates tell it to. Sends what it sang back out as a chart.",
+      "tags": [
+        "Visual",
+        "Utility",
+        "Game",
+        "Controller"
+      ]
+    },
+    {
+      "slug": "FunkinPlayer",
+      "name": "Funkin Player",
+      "description": "The other half of the duel: notes come down a road and you play them back with a gamepad, the computer keyboard, MIDI or four gates. What you hit comes out as gates.",
+      "tags": [
+        "Visual",
+        "Utility",
+        "Game",
+        "Controller",
+        "Sequencer"
+      ]
+    },
+    {
+      "slug": "FunkinDancer",
+      "name": "Funkin Dancer",
+      "description": "The character in the background: no arrows, just a character who dances on the beat and hands the beat back out as a trigger, a bar marker and a falling envelope.",
+      "tags": [
+        "Visual",
+        "Clock modulator",
+        "Utility",
+        "Game",
+        "Low-frequency oscillator"
+      ]
+    }
+  ]
+}
